@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "APPLICATION DE GESTION DE PHARMACIE CC/1.0.0": {
+        "runtime": {
+          "APPLICATION DE GESTION DE PHARMACIE CC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APPLICATION DE GESTION DE PHARMACIE CC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
